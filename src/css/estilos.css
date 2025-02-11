@@ -101,6 +101,7 @@ max-height: 280px;
     font-size: 20px;
     color: #ffffff;
     padding: 12px;
+    margin: 0;
 }
 
 .cartao .descricao .texto {
@@ -109,6 +110,7 @@ max-height: 280px;
     text-align: justify;
     max-height: 110px;
     overflow-y: auto;
+    margin: 0;
 }
 
 .cartao.fundo-1 {
